@@ -1,6 +1,10 @@
 # 🎁 Sogni.ai Daily Boost Auto Claimer Bot
 
 A Node.js bot that automatically claims the Daily Boost rewards on [Sogni.ai](https://app.sogni.ai), supporting multiple accounts.
+Use Reff code :
+```
+ostadkachal
+```
 
 ---
 
